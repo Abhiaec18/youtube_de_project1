@@ -1,7 +1,7 @@
 pycryptodomex
 pycryptodome
 loguru
-boto3
+google-cloud
 pyspark
 findspark
 mysql-connector-python
